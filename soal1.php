@@ -1,5 +1,6 @@
 <?php
-$hewan = array("macan", "kucing", "ayam");
+$buah = array("melon", "semangka", "jeruk", "apel");
 
-echo json_encode($hewan);
+echo json_encode($buah);
+
 ?>
